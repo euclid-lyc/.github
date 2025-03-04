@@ -5,17 +5,6 @@
 
 ## Tech Stack
 
-<br/>
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/Spring-7F52FF?style=for-the-badge&logo=Spring&logoColor=white"/>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-<img src="https://img.shields.io/badge/all_contributors-4-orange.svg?style=for-the-badge"/>
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-  </p>
-  <br />
-</div>
-
 ## Contributors ✨
 
 <div align="center">
