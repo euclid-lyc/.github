@@ -1,5 +1,10 @@
-# 유클리드 - Lead Your Closet <img src="https://github.com/user-attachments/assets/417c0f63-78c2-46ff-9fc9-4fab956a0a38" align=left width=100>
-『옷을 고르는 것이 어렵고 귀찮은 당신을 위하여』
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/417c0f63-78c2-46ff-9fc9-4fab956a0a38" align=center width=100>
+</div>
+
+<h1 align="center">유클리드 - Lead Your Closet</h1>
+<div align="center">『옷을 고르는 것이 어렵고 귀찮은 당신을 위하여』</div>
+
 
 <br>
 
